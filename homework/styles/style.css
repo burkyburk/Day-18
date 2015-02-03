@@ -9,6 +9,15 @@ h1 {
 	background-color: rgb(8,66,59);
 }
 
+#app-view {
+	width: 1000px;
+	height: 150px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+
+
 .face {
 	height: 10em;
     width: 10em;
